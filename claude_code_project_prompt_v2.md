@@ -1,4 +1,4 @@
-# Claude Code Prompt — PACE Enrollment & Revenue Pipeline (MMR)
+# Claude Code Prompt — Enrollment & Revenue Pipeline (MMR)
 
 > Usage: paste the Project Brief below as your opening prompt in Claude Code, then work phase by phase. Don't paste all phases at once — direct one phase, review the output, then move on. Keep notes on what you corrected; that's your review log for the README.
 
